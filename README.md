@@ -4,7 +4,7 @@
 - Search Quickly✈️
 - Make your Favorite List✨
 
-![calculator_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/0l4g53u86odym61/main_SLC1nD0oPe.png)
+![calculator_main_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/main_aYMPx8a9o0.png)
 
 # Full Code:
 for downloading the codes of the project 
