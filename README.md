@@ -15,9 +15,7 @@
 #
 ![calculator_profile_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/profile_mr8l2DvjPq.png)
 #
-![calculator_onboarding_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/favorites_0aYoCiVA7w.png)
-#
-![calculator_profile_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/favorites_0aYoCiVA7w.png)
+![calculator_profile_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/onboard_rcu3zrzgU5.png)
 # Full Code:
 for downloading the codes of the project 
 
