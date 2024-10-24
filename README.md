@@ -5,20 +5,20 @@
 - Make your Favorite List✨
 - Amazing Onboard-Screen🌟
 
-![crypto-bazzar_main_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/main_aYMPx8a9o0.png)
+![crypto-bazzar_main_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/main_min_HNG08Ri7b0.png)
 #
-![crypto-bazzar_search_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/search_eXmE6vPtbM.png)
+![crypto-bazzar_search_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/search_min_fmIxRznPcg.png)
 #
-![crypto-bazzar_info_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/info_KpDZL10pzD.png)
+![crypto-bazzar_info_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/info_min_w6iAdzQBXz.png)
 #
-![crypto-bazzar_favorites_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/favorites_0aYoCiVA7w.png)
+![crypto-bazzar_favorites_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/favorite_min_LNu82ojwIU.png)
 #
-![crypto-bazzar_profile_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/profile_mr8l2DvjPq.png)
+![crypto-bazzar_profile_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/profile_min_8PQduJT7t5.png)
 #
-![crypto-bazzar_onboard_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/onboard_rcu3zrzgU5.png)
+![crypto-bazzar_onboard_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/y0jkns4g8mq3xx2/onboard_min_E5CgRHnDwN.png)
 # Full Code:
 for downloading the codes of the project 
 
-follow the AppSbyDev Instagram page and send me a message
+follow the KhatiriDev Instagram page and send me a message
 
-- [Instagram: AppSby_dev](https://www.instagram.com/appsby.dev)
+- [Instagram: AppSby_dev](https://www.instagram.com/khatiri_dev)
